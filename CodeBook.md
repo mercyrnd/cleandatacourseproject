@@ -8,6 +8,10 @@ For step 2 of the assignment, I restricted the variables only to those indicated
 For step 5, I used the summarize_all function to find the mean value of each variable, 
 for each activity as performed by each subject
 
+For the most comprehensive explaination of the code / steps that I took in the analysis, 
+please look at the comments throughout the R script.  
+
+The units and further descriptions of the variables can be found below, in the original Code Book that came with the data. 
 
 ##################################################################
 
