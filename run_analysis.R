@@ -1,7 +1,7 @@
 ## Note: Throughout the code I've used the rm() command to clean up the environment.  I am not sure if this 
 ## is stylistically discouraged, I just don't like all of these dataframes etc. cluttering the space!
 
-setwd("C:/Users/Telles/R/data/UCI HAR Dataset/")
+setwd("/UCI HAR Dataset/")
 
 library(readr)
 library(dplyr)
